@@ -22,7 +22,7 @@
 <div class="main">
   
 <div class="header">
-  <h1>Mi Página</h1>
+  <h1>Mi Currículum <br/></h1>
   <img src="img/atomo.gif" alt="">
   <hr>
   <h2>Mi Portafolio</h2>
